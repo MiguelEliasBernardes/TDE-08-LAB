@@ -1,0 +1,14 @@
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\bin\Debug\net8.0\TDEaula08.exe
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\bin\Debug\net8.0\TDEaula08.deps.json
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\bin\Debug\net8.0\TDEaula08.runtimeconfig.json
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\bin\Debug\net8.0\TDEaula08.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\bin\Debug\net8.0\TDEaula08.pdb
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\obj\Debug\net8.0\TDEaula08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\obj\Debug\net8.0\TDEaula08.AssemblyInfoInputs.cache
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\obj\Debug\net8.0\TDEaula08.AssemblyInfo.cs
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\obj\Debug\net8.0\TDEaula08.csproj.CoreCompileInputs.cache
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\obj\Debug\net8.0\TDEaula08.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\obj\Debug\net8.0\refint\TDEaula08.dll
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\obj\Debug\net8.0\TDEaula08.pdb
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\obj\Debug\net8.0\TDEaula08.genruntimeconfig.cache
+C:\Users\MIGUELIS\Desktop\Faculdade\Laboratório de Programação\TDEaula08\obj\Debug\net8.0\ref\TDEaula08.dll
